@@ -1,6 +1,6 @@
 # SpaceShooter-Game
 
-This space shooter game, implements the SFML library, running in C++. Using the keyboard to manuevre the spaceship to shoot at aliens, ganering 200 points in order to win and clear the level
+This space shooter game, implements the SFML library, running in C++. Using the keyboard to manuevre the spaceship to shoot at aliens, garnering 200 points in order to win and clear the level. It uses OOP principles.
 
 # SFML-2.5.1 64-bit Installation Guide
 SFML is a C++ GUI library used to create multimedia quick developed by [the SFML team](https://github.com/SFML). This installation guide is mainly for Visual Studios Code but should also work for other text editors or IDE's. To set this up and begin your project, see the instructions below.
